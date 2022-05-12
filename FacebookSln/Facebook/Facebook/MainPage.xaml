@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Facebook.MainPage" BackgroundColor="white" >
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+          
+            <Label Text="FacebookLite" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Label Text="Phone or email" FontSize="Medium" Padding="30,10,30,10"/>
+        <Label Text="Password" FontSize="Medium" Padding="30,0,30,0"/>
+        <Button Text ="LogIn" Clicked="Button_Clicked"/>
+
+        <Label Text="ForgetPassword?" FontSize="16" Padding="30,10,30,0"/>
+        <Entry Placeholder="email" />
+
+    </StackLayout>
+       </ContentPage>
+       

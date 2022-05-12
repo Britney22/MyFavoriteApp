@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKD/rDAdSRYWVQG8sM/Fatnt45i8JYDkvMse0wRBWYF9BoHQ99bXjKwYxGQ8BLhHJ4kEhW4LJ5k2+mJvAdsvtA==",
+  "success": true,
+  "projectFilePath": "C:\\MyFavApp\\MyFavoriteApp\\FacebookSln\\Facebook\\Facebook.iOS\\Facebook.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\BRITNEYWILLIAMS\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
